@@ -1,0 +1,66 @@
+Number of member: 5
+Number of fuzzySet 3
+Interval 150 200
+Middle 170 170
+Type t
+Name low_speed
+Interval 190 250
+Middle 220 220
+Type t
+Name medium_speed
+Interval 235 300
+Middle 270 270
+Type t
+Name high_speed
+Number of fuzzySet 3
+Interval 10000 10700
+Middle 10600
+Type t
+Name low_altitude
+Interval 10650 10900
+Middle 10800 10800
+Type t
+Name medium_altitude
+Interval 10890 11000
+Middle 10950 10950
+Type t
+Name high_altitude
+Number of fuzzySet 3
+Interval 0 0.3
+Middle 0.17 0.17
+Type t
+Name low_cpa
+Interval 0.25 0.6
+Middle 0.5 0.5
+Type t
+Name medium_cpa
+Interval 0.57 1.0
+Middle 0.87 0.87
+Type t
+Name high_cpa
+Number of fuzzySet 3
+Interval 0 190
+Middle 150 150
+Type t
+Name low_tbh
+Interval 179 335
+Middle 290 290
+Type t
+Name medium_tbh
+Interval 320 500
+Middle 435 435
+Type t
+Name high_tbh
+Number of fuzzySet 3
+Interval 0 0.3
+Middle 0.2 0.2
+Type t
+Name low_threat
+Interval 0.28 0.65
+Middle 0.49 0.49
+Type t
+Name medium_threat
+Interval 0.6 1.0
+Middle 0.85 0.85
+Type t
+Name high_threat
